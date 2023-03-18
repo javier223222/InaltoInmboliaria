@@ -1,0 +1,115 @@
+body{
+	overflow: hidden;
+}
+.e1_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:900px;
+	position:absolute;
+}
+.e5_143 { 
+	width:48px;
+	height:48px;
+	position:absolute;
+	left:403px;
+	top:661px;
+}
+.e13_181 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:181px;
+	position:absolute;
+	left:4px;
+	top:0px;
+}
+.e13_182 { 
+	width:217px;
+	height:175px;
+	position:absolute;
+	left:13px;
+	top:6px;
+	background-image:url(/Administrador/src/images/inalto_inmobiliaria_logo_a105ca01ac_seeklogo_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e13_183 { 
+	color:rgba(0, 0, 0, 1);
+	width:212px;
+	height:46px;
+	position:absolute;
+	left:267px;
+	top:67px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e13_184 { 
+	color:rgba(0, 0, 0, 1);
+	width:196px;
+	height:20px;
+	position:absolute;
+	left:479px;
+	top:67px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e13_185 { 
+	color:rgba(0, 0, 0, 1);
+	width:317px;
+	height:36px;
+	position:absolute;
+	left:675px;
+	top:67px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e13_186 { 
+	color:rgba(0, 0, 0, 1);
+	width:267px;
+	height:59px;
+	position:absolute;
+	left:1063px;
+	top:61px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e13_188 { 
+	background-color:rgba(13.000000175088644, 13.000000175088644, 13.000000175088644, 1);
+	width:1440px;
+	height:136px;
+	position:absolute;
+	left:0px;
+	top:764px;
+}
+.e13_189 { 
+	color:rgba(255, 255, 255, 1);
+	width:1404px;
+	height:144px;
+	position:absolute;
+	left:10px;
+	top:778px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:20px;
+	letter-spacing:0;
+}
+.e13_187 { 
+	width:816px;
+	height:576px;
+	position:absolute;
+	left:302px;
+	top:162px;
+	background-image:url(/Administrador/src/images/image_9.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+a{
+	text-decoration: none;
+}

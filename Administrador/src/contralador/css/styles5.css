@@ -1,0 +1,85 @@
+
+body{
+		min-height: 100vh;
+		max-width:1900px;
+		background-color:#FFFFFF; 
+		margin: 0 auto;
+		overflow-x: hidden;
+		
+	}
+.principal-image{
+    width:249px;
+	height:200px;
+	position:absolute;
+	left:589px;
+	top:0px;
+	background-image:url(/src/images/inalto_inmobiliaria_logo_a105ca01ac_seeklogo_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+.form{
+	position: absolute;
+width: 494px;
+height: 470px;
+left: 460px;
+top: 210px;
+
+background: #FFFFFF;
+box-shadow: 0px 1px 2px 2px rgba(60, 64, 67, 0.3);
+border-radius: 15px;
+}
+.input1{
+	box-sizing: border-box;
+
+position: absolute;
+width: 456px;
+height: 48px;
+/* left: 647px; */
+left: 20px;
+top: 60px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-shadow: 0px 1px 2px rgba(60, 64, 67, 0.3);
+border-radius: 15px;
+}
+.input2{
+	box-sizing: border-box;
+
+position: absolute;
+width: 456px;
+height: 48px;
+left: 20px;
+top: 165px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-shadow: 0px 1px 2px rgba(60, 64, 67, 0.3);
+border-radius: 15px;
+}
+.button1{
+	box-sizing: border-box;
+
+position: absolute;
+width: 456px;
+height: 55px;
+left: 20px;
+top: 300px;
+
+background: #B7D93D;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+}
+.input1::placeholder{
+	font-size: 23px;
+}
+.input2::placeholder{
+	font-size: 23px;
+}
+.text1{
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 40px;
+}

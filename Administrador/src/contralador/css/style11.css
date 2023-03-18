@@ -1,0 +1,462 @@
+body{
+    width: 1440px;
+    height: 900px;
+    background: #FFFFFF;
+}
+.e13_191{
+    width:72px;
+	height:58px;
+	background-image:url(/Administrador/images/inalto_inmobiliaria_logo_a105ca01ac_seeklogo_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e13_192{
+    position: absolute;
+    width: 212px;
+    height: 46px;
+    left: 100px;
+    top: 19px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 38px;
+    
+    color: #000000;
+}
+.e13_193{
+    position: absolute;
+width: 196px;
+height: 20px;
+left: 280px;
+top: 19px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 26px;
+line-height: 38px;
+
+color: #000000;
+}
+
+.e13_194{
+    
+    position: absolute;
+    width: 317px;
+    height: 36px;
+    left: 420px;
+    top: 19px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 38px;
+    
+    color: #000000
+}
+.e13_195{
+    position: absolute;
+    width: 317px;
+    height: 36px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 38px;
+    left: 700px;
+top: 19px;
+    color: #000000
+}
+.e13_196{
+    width:520px;
+	height:335px;
+    position: relative;
+    left: -10px;
+    top: 5px;
+	background-image:url(/Administrador/src/images/image_3.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e13_198{
+    width:414px;
+	height:240px;
+    left: 510px;
+    top: -330px;
+	background-image:url(/Administrador/src/images/image_7.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+    position: relative;
+}
+.e13_199{
+    position: relative;
+    width: 500px;
+    height: 123px;
+    background-image: url(/Administrador/src/images/image_8.png);
+    background-repeat:no-repeat;
+	background-size:cover;
+    left: 510px;
+    top: -358px;
+
+}
+.parrafo{
+    position: absolute;
+width: 502px;
+height: 56px;
+left: 79px;
+top: 390px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+.parrafo2{
+    position: absolute;
+width: 502px;
+height: 56px;
+left: 79px;
+top: 440px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: rgba(0, 0, 0, 0.68);
+}
+.posta-code{
+  width: 50px;
+  height: 43.33px;
+  left: 65px;
+  top: -280px;
+  position: relative;
+
+    background-image: url(/Administrador/src/images/local_post_office_FILL0_wght400_GRAD0_opsz48.png);
+
+
+}
+.codigoPostal{
+    position: absolute;
+width: 201px;
+height: 18px;
+left: 50px;
+top: -20px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+.number{
+    position: absolute;
+width: 121px;
+height: 17px;
+/* left: 150px;
+top: 657px; */
+top: 20px;
+left: 50px;
+position: relative;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000
+}
+.pisoimagen{
+    width: 40px;
+    height: 41px;
+    left: 280px;
+    top: -94px;
+    position: relative;
+    background-image: url(/Administrador/src/images/home_FILL0_wght400_GRAD0_opsz48.png);
+}
+.pisos{
+    position: absolute;
+width: 201px;
+height: 18px;
+top: -25px;
+left: 320px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+.numberpisos{
+    position: absolute;
+width: 121px;
+height: 17px;
+left: 320px;
+top: -5px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+.dinero{
+    width: 47px;
+    height: 45px;
+    top: -187px;
+    left:480px;
+    position: relative;
+    background-image: url(/Administrador/src/images/currency_exchange_FILL0_wght400_GRAD0_opsz48.png);
+}
+.rentMensual{
+    position: absolute;
+width: 133px;
+height: 19px;
+/* left: 820px;
+top: 629px; */
+top: -30px;
+left: 535px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+.cantidad{
+    position: absolute;
+width: 121px;
+height: 17px;
+top: 0px;
+left: 535px;
+/* left: 824px;
+top: 666px; */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+.inmueble{
+ position: relative;   
+width: 45px;
+height: 44px;
+top: -200px;
+  
+    background-image: url(/Administrador/src/images/real_estate_agent_FILL0_wght400_GRAD0_opsz48.svg);
+}
+.tipoinmueble{
+    
+position: absolute;
+width: 201px;
+height: 19px;
+top: 53px;
+left: 40px;
+/* left: 127px;
+top: 724px; */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+.edificio{
+    position: absolute;
+width: 121px;
+height: 17px;
+/* left: 131px;
+top: 747px; */
+left:46px ;
+top: 78px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+.m2{
+    position: relative;   
+    width: 42px;
+    height: 40px;
+   top: -284px;
+   left: 275px;
+    background-image: url(/Administrador/src/images/pivot_table_chart_FILL0_wght400_GRAD0_opsz48.svg);
+}
+.m21{
+    position: absolute;
+width: 201px;
+height: 18px;
+top: 60px;
+left: 320px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+.cantidad2{
+    position: absolute;
+width: 121px;
+height: 17px;
+top: 80px;
+left: 320px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+.idDelInmueble{
+    position: relative;   
+    width: 42px;
+    height: 45px;
+    top: -375px;
+    left: 480px;
+    background-image: url(/Administrador/src/images/badge_FILL0_wght400_GRAD0_opsz48.svg);
+}
+.idcontiene{
+    position: absolute;
+width: 133px;
+height: 19px;
+top: 60px;
+left: 535px;
+/* left: 873px;
+top: 857px; */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+.numeroid{
+    position: absolute;
+width: 130px;
+height: 14px;
+top: 80px;
+left: 535px;
+/* left: 873px;
+top: 873px; */
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 23px;
+
+color: #000000;
+}
+.actualizar{
+    box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 40px;
+left: 550px;
+top: 250px;
+background: #B7D93D;
+border-radius: 8px;
+}
+.pactualizar{
+    text-decoration: none;
+
+    position: absolute;
+width: 275px;
+height: 33px;
+left: -23px;
+top: 7px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+
+color: rgba(0, 0, 0, 0.67);
+}
+
+.image{
+    width: 40px;
+    height: 60px;
+    top: -5px;
+    left: -10px;
+    position: relative;
+    background-image: url(/Administrador/src/images/done_FILL0_wght400_GRAD0_opsz48.svg);
+}
+.editar{
+    position: relative;
+    width: 43px;
+    height: 48px;
+    left: 180px;
+    top: -50px;
+    background-image: url(/Administrador/src/images/edit_FILL0_wght400_GRAD0_opsz48.svg);
+}
+.edithome{
+    position: relative;
+    width: 43px;
+    height: 48px;
+    left: 365px;
+    top: -135px;
+    background-image: url(/Administrador/src/images/edit_FILL0_wght400_GRAD0_opsz48.svg);
+}
+.editmoney{
+    position: relative;
+    width: 43px;
+    height: 48px;
+    left: 670px;
+    top: -235px;
+    background-image: url(/Administrador/src/images/edit_FILL0_wght400_GRAD0_opsz48.svg);
+}
+.edittipo{
+    position: relative;
+    width: 43px;
+    height: 48px;
+    left: 190px;
+    top: -235px;
+    background-image: url(/Administrador/src/images/edit_FILL0_wght400_GRAD0_opsz48.svg);
+}
+.editm2{
+    position: relative;
+    width: 43px;
+    height: 48px;
+    left: 360px;
+    top: -320px;
+    background-image: url(/Administrador/src/images/edit_FILL0_wght400_GRAD0_opsz48.svg);
+}
+.editar2{
+    position: relative;
+    width: 43px;
+    height: 48px;
+    left: 670px;
+    top: -420px;
+    background-image: url(/src/images/edit_FILL0_wght400_GRAD0_opsz48.svg);
+}
+a{
+    text-decoration: none;
+}

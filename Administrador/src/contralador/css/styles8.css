@@ -1,0 +1,127 @@
+body{
+	margin: 0px;
+
+}
+.e1_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:900px;
+	position:absolute;
+}
+.e5_12 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:181px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e12_169 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:181px;
+	position:absolute;
+	left:11px;
+	top:-4px;
+}
+.e12_170 { 
+	width:229px;
+	height:181px;
+	position:absolute;
+	left:11px;
+	top:0px;
+	background-image:url(/Administrador/src/images/inalto_inmobiliaria_logo_a105ca01ac_seeklogo_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e12_171 { 
+	color:rgba(0, 0, 0, 1);
+	width:212px;
+	height:46px;
+	position:absolute;
+	left:263px;
+	top:51px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e12_172 { 
+	color:rgba(0, 0, 0, 1);
+	width:196px;
+	height:20px;
+	position:absolute;
+	left:475px;
+	top:57px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e12_173 { 
+	color:rgba(0, 0, 0, 1);
+	width:317px;
+	height:36px;
+	position:absolute;
+	left:653px;
+	top:57px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e12_174 { 
+	color:rgba(0, 0, 0, 1);
+	width:267px;
+	height:59px;
+	position:absolute;
+	left:1063px;
+	top:57px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+	text-decoration: none;
+}
+.e5_143 { 
+	width:48px;
+	height:48px;
+	position:absolute;
+	left:403px;
+	top:661px;
+}
+.e5_157 { 
+	color:rgba(255, 255, 255, 1);
+	width:1404px;
+	height:144px;
+	position:absolute;
+	left:4px;
+	top:799px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:18px;
+	letter-spacing:0;
+}
+.e12_167 { 
+	width:1153px;
+	height:589px;
+	position:absolute;
+	left:143px;
+	top:290px;
+	background-image:url(/Administrador/src/images/image_11.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e12_168 { 
+	width:411px;
+	height:275px;
+	position:absolute;
+	left:912px;
+	top:153px;
+	background-image:url(/Administrador/src/images/image_10.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+a{
+	text-decoration: none;
+}

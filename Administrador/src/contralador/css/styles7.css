@@ -1,0 +1,371 @@
+body{
+	margin: 0px;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background: rgba(255, 255, 255, 1);
+	background:no-repeat;
+
+}
+
+.e1_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:900px;
+	position:absolute;
+}
+.e5_12 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	height:181px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+.e5_13 { 
+	width:211px;
+	height:168px;
+	position:absolute;
+	left:11px;
+	top:0px;
+	background-image:url(/Administrador/src/images/inalto_inmobiliaria_logo_a105ca01ac_seeklogo_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e5_14 { 
+	color:rgba(0, 0, 0, 1);
+	width:212px;
+	height:46px;
+	position:absolute;
+	left:263px;
+	top:51px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e5_15 { 
+	color:rgba(0, 0, 0, 1);
+	width:196px;
+	height:20px;
+	position:absolute;
+	left:475px;
+	top:51px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e5_16 { 
+	color:rgba(0, 0, 0, 1);
+	width:317px;
+	height:36px;
+	position:absolute;
+	left:653px;
+	top:51px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+}
+.e5_17 { 
+	color:rgba(0, 0, 0, 1);
+	width:267px;
+	height:59px;
+	position:absolute;
+	left:1063px;
+	top:51px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:32px;
+	letter-spacing:0;
+	text-decoration: none;
+}
+.e5_18 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:503px;
+	height:76px;
+	position:absolute;
+	left:912px;
+	top:117px;
+	border-top-left-radius:15px;
+	border-top-right-radius:15px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+}
+
+.e5_19 { 
+	width:48px;
+	height:48px;
+	position:absolute;
+	left:936px;
+	top:134px;
+}
+.e5_20 { 
+	background-color:rgba(0, 0, 0, 1);
+	width:36px;
+	height:36px;
+	position:absolute;
+	left:6px;
+	top:5.949999809265137px;
+}
+.e5_21 { 
+	box-sizing: border-box;
+
+position: absolute;
+width: 503px;
+height: 76px;
+left: 912px;
+top: 117px;
+
+font-family:Roboto,Font;
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 15px;
+font-family: 'Roboto',FontAwesome;
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 38px;
+}
+
+
+.e5_137 { 
+	width:451px;
+	height:376px;
+	position:absolute;
+	left:11px;
+	top:224px;
+	background-image:url(/Administrador/src/images/rectangle_31.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e5_138 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:451px;
+	height:151px;
+	position:absolute;
+	left:11px;
+	top:606px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}
+
+.e5_139 { 
+	color:rgba(0, 0, 0, 0.6200000047683716);
+	width:451px;
+	height:64px;
+	position:absolute;
+	left:14px;
+	top:606px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e5_140 { 
+	color:rgba(0, 0, 0, 0.6200000047683716);
+	width:116px;
+	height:28px;
+	position:absolute;
+	left:152px;
+	top:685px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e5_141 { 
+	color:rgba(0, 0, 0, 0.6200000047683716);
+	width:14px;
+	height:28px;
+	position:absolute;
+	left:243px;
+	top:668px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e5_142 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:439px;
+	height:158px;
+	position:absolute;
+	left:485px;
+	top:599px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}
+
+.e5_143 { 
+	width:48px;
+	height:48px;
+	position:absolute;
+	left:403px;
+	top:661px;
+}
+.e5_144 { 
+	
+	width:40px;
+	height:43px;
+	position:absolute;
+	left:419px;
+	top:710px;
+	background-image: url(/Administrador/src/images/delete_FILL0_wght400_GRAD0_opsz48\ \(1\).svg);
+}
+.e5_145 { 
+	color:rgba(0, 0, 0, 0.6200000047683716);
+	width:451px;
+	height:64px;
+	position:absolute;
+	left:473px;
+	top:604px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e5_146 { 
+	color:rgba(0, 0, 0, 0.6200000047683716);
+	width:116px;
+	height:28px;
+	position:absolute;
+	left:658px;
+	top:685px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e5_147 { 
+	color:rgba(0, 0, 0, 0.6200000047683716);
+	width:14px;
+	height:28px;
+	position:absolute;
+	left:753px;
+	top:673px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e5_148 { 
+	background-image: url(/Administrador/src/images/delete_FILL0_wght400_GRAD0_opsz48\ \(1\).svg);
+	width:40px;
+	height:43px;
+	position:absolute;
+	left:880px;
+	top:710px;
+}
+.e5_149 { 
+	width:463px;
+	height:389px;
+	position:absolute;
+	left:947px;
+	top:215px;
+	background-image:url(/Administrador/src/images/image_3.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e5_150 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:463px;
+	height:152px;
+	position:absolute;
+	left:947px;
+	top:599px;
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	border-bottom-left-radius:5px;
+	border-bottom-right-radius:5px;
+}
+
+.e5_151 { 
+	color:rgba(0, 0, 0, 0.6200000047683716);
+	width:451px;
+	height:64px;
+	position:absolute;
+	left:947px;
+	top:614px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e5_152 { 
+	background-image: url(/Administrador/src/images/delete_FILL0_wght400_GRAD0_opsz48\ \(1\).svg);
+	width:40px;
+	height:43px;
+	position:absolute;
+	left:1365px;
+	top:700px;
+}
+.e5_153 { 
+	color:rgba(0, 0, 0, 0.6200000047683716);
+	width:116px;
+	height:28px;
+	position:absolute;
+	left:1121px;
+	top:687px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e5_154 { 
+	color:rgba(0, 0, 0, 0.6200000047683716);
+	width:14px;
+	height:28px;
+	position:absolute;
+	left:1215px;
+	top:673px;
+	font-family:Roboto;
+	text-align:center;
+	font-size:24px;
+	letter-spacing:0;
+}
+.e5_155 { 
+	width:441px;
+	height:378px;
+	position:absolute;
+	left:487px;
+	top:221px;
+	background-image:url(/Administrador/src/images/rectangle_24.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e5_156 { 
+	background-color:rgba(13.000000175088644, 13.000000175088644, 13.000000175088644, 1);
+	width:1440px;
+	height:101px;
+	position:absolute;
+	left:0px;
+	top:900px;
+}
+.e5_157 { 
+	position: absolute;
+width: 1404px;
+height: 144px;
+left: 9px;
+top: 900px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+a{
+	text-decoration: none;
+}

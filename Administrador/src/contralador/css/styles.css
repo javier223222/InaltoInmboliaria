@@ -1,0 +1,183 @@
+
+
+body {
+	height:722px ;
+    max-width:1900px;
+    background-color: #ffffff; 
+    margin: 0 auto;
+	overflow-x: hidden;
+	overflow: hidden;
+}
+ 	
+.e1_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1440px;
+	overflow:hidden;
+	height:900px;
+	position:absolute;
+	overflow: hidden;
+}
+
+.e1_3 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1453px;
+	height:288px;
+	position:absolute;
+	left:30px;
+	top:0px;
+}
+.e1_4 { 
+	width: 198px;
+height: 158px;
+	position:absolute;
+	left:
+	1225px;
+	top:4px;
+	background-image:url(../images/inalto_inmobiliaria_logo_a105ca01ac_seeklogo_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_5 { 
+	box-shadow: 0px 1px 2px 2px rgba(60, 64, 67, 0.3);
+	background-color:rgba(255, 255, 255, 1);
+	border:1px solid rgba(255, 255, 255, 1);
+	width:520px;
+	height:500px;
+	position:absolute;
+	left:780px;
+	top:260px;
+	border-top-left-radius:15px;
+	border-top-right-radius:15px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+}
+
+.e1_6 { 
+	color:rgba(0, 0, 0, 1);
+	position:absolute;
+	left:958px;
+	top:315px;
+	font-family:Inter;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}
+.e1_7 { 
+	width:673px;
+	height:749px;
+	position:absolute;
+	left:0px;
+	top:244px;
+}
+.e1_8 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(183.00000429153442, 217.0000022649765, 61.00000016391277, 1);
+	width:500px;
+	height:55px;
+	border:1px solid rgba(0, 0, 0, 1);
+	position:absolute;
+	left:790px;
+	top:673px;
+	border-radius:15px;
+}
+
+.e1_9 { 
+	color:rgba(255, 255, 255, 1);
+	width:239px;
+	height:47px;
+	position:absolute;
+	left:915px;
+	top:673px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:40px;
+	letter-spacing:0;
+	text-decoration:none;
+}
+.e1_10 { 
+	box-shadow:0px 1px 2px rgba(60.00000022351742, 64.00000378489494, 67.00000360608101, 0.30000001192092896);
+	background-color:rgba(255, 255, 255, 1);
+	width: 500px;
+    height: 55px;
+	position:absolute;
+	left:790px;
+	top:335px;
+	border:1px solid rgba(0, 0, 0, 1);
+	border-top-left-radius:15px;
+	border-top-right-radius:15px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+}
+
+.e1_11 { 
+	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
+	background-color:rgba(255, 255, 255, 1);
+	width:500px;
+	height:55px;
+	position:absolute;
+	left:790px;
+	top:450px;
+	border-radius:15px;
+	border:1px solid rgba(0, 0, 0, 1);
+}
+.e1_11::placeholder{
+	font-family: 'Roboto';
+	font-style: normal;
+	
+	font-size: 28px;
+	line-height: 38px;
+	color: #000000;
+}
+
+.e1_10::placeholder{
+	font-family: 'Roboto';
+font-style: normal;
+
+font-size: 28px;
+line-height: 38px;
+color: #000000;
+}
+
+.e1_14 { 
+	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 1);
+	width:5px;
+	height:4px;
+	position:absolute;
+	left:799px;
+	top:673px;
+}
+.e1_15 { 
+	width:801px;
+	height:86px;
+	position:absolute;
+	left:922px;
+	top:481px;
+}
+.e1_16 { 
+	color:rgba(0, 0, 0, 1);
+	width:442px;
+	height:31px;
+	position:absolute;
+	left:900px;
+	top:600px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:28px;
+	letter-spacing:0;
+	text-decoration: none;
+}
+.e1_17 { 
+	width: 700px;
+    height: 900px;
+	position:absolute;
+	left:-81px;
+	top:0px;
+	background-image:url(../images/image_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+	
+	
+
+

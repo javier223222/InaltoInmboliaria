@@ -1,0 +1,298 @@
+body{
+	width: 1440px;
+	height: 1024;
+	background-color: #FFFFFF;
+}
+.image{
+	width: 198px;
+    height: 158px;
+    position: absolute;
+    left: 10px;
+    top: 4px;
+    background-image: url(../images/inalto_inmobiliaria_logo_a105ca01ac_seeklogo_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text{
+	position: absolute;
+width: 212px;
+height: 46px;
+left: 263px;
+top: 26px;
+text-decoration: none;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+
+color: #000000;
+}
+.text1{
+	position: absolute;
+width: 196px;
+height: 20px;
+left: 545px;
+top: 26px;
+text-decoration: none;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+
+color: #000000
+}
+.text2{
+	position: absolute;
+width: 317px;
+height: 36px;
+left: 770px;
+top: 26px;
+text-decoration: none;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+
+color: #000000;
+
+}
+.text3{
+	position: absolute;
+width: 267px;
+height: 59px;
+left: 1159px;
+top: 26px;
+text-decoration: none;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+
+color: #000000
+}
+.contenedor{
+
+	box-sizing: border-box;
+
+position: absolute;
+width: 536px;
+height: 458px;
+left: 840px;
+top: 300px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.31);
+box-shadow: 0px 4px 4px rgba(60, 64, 67, 0.25);
+border-radius: 8px;
+}
+.footer{
+	position: absolute;
+width: 1440px;
+height: 101px;
+left: 0px;
+top: 900px;
+
+background: #0D0D0D;
+}
+.image-2{
+
+	width:648px;
+	height:427px;
+	position:absolute;
+	left:90px;
+	top:300px;
+	background-image:url(/Administrador/src/contralador/images/image_2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.parrafo{
+	position: absolute;
+width: 1212px;
+height: 50px;
+left: 3px;
+top: px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 15px;
+
+color: #FFFFFF;
+
+
+	
+}
+.cuadro{
+	box-shadow: 0px 2px 1px rgb(60 64 67 / 30%);
+    background-color: rgba(255, 255, 255, 1);
+    width: 350px;
+    height: 123px;
+    position: absolute;
+    left: 100px;
+    top: 10px;
+    border-radius: 8px;
+	border: 1px solid rgba(0,0,0,0.5);
+}
+.boton{
+	box-sizing: border-box;
+
+position: absolute;
+width: 273px;
+height: 35px;
+left: 39px;
+top: 87px;
+box-shadow: 0px 2px 1px rgb(60 64 67 / 30%);
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.5);
+border-radius: 8px;
+}
+.add{
+	position: absolute;
+    width: 28px;
+	height: 28px;
+	top: 44px;
+	left: 20px;
+}
+.add-image{
+	color: rgba(0, 0, 0, 1);
+    width: 225px;
+    height: 33px;
+    position: absolute;
+    top: 58px;
+	left: 90px;
+    font-family: Roboto;
+    text-align: left;
+    font-size: 28px;
+    letter-spacing: 0;
+}
+.imagenes{
+	color: rgba(0, 0, 0, 1);
+    width: 440px;
+    height: 74px;
+    position: absolute;
+    top: -30px;
+    font-family: Roboto;
+    text-align: left;
+    font-size: 30px;
+    letter-spacing: 0;
+}
+.box{
+	background-color:rgba(255, 255, 255, 1);
+	box-sizing: border-box;
+
+position: absolute;
+width: 495px;
+height: 42px;
+left: -80px;
+top: 140px;
+
+background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.8);
+border-radius: 6px;
+	box-shadow: 0px 2px 1px rgb(60 64 67 / 30%);
+}
+.box1{
+	position: absolute;
+	width: 495px;
+	height: 42px;
+	background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.8);
+border-radius: 6px;
+	box-shadow: 0px 2px 1px rgb(60 64 67 / 30%);
+	left: -80px;
+	top: 200px;
+}
+.box2{
+	position: absolute;
+	width: 495px;
+	height: 42px;
+	background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.8);
+border-radius: 6px;
+	box-shadow: 0px 2px 1px rgb(60 64 67 / 30%);
+	left: -80px;
+	top: 260px;
+}
+.box3{
+
+position: absolute;
+	width: 495px;
+	height: 42px;
+	background: #FFFFFF;
+border: 1px solid rgba(0, 0, 0, 0.8);
+border-radius: 6px;
+	box-shadow: 0px 2px 1px rgb(60 64 67 / 30%);
+	left: -80px;
+	top: 320px;
+}
+.box4{
+
+}
+.box5{
+	box-sizing: border-box;
+
+position: absolute;
+width: 292px;
+height: 43px;
+top: 380px;
+left: 25px;
+
+background: rgba(183, 217, 61, 0.8);
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 7px;
+
+
+}
+.agregar{
+	position: absolute;
+color: rgba(255, 255, 255, 1);
+width: 252px;
+height: 12px;
+top: -8px;
+position: absolute;
+left: 70px;
+font-family: Roboto;
+text-align: left;
+font-size: 40px;
+letter-spacing: 0;
+text-decoration: none;
+}
+.box::placeholder{
+
+font-family: 'Roboto';
+font-style: normal;
+
+font-size: 28px;
+line-height: 38px;
+color: #000000;
+}
+.box1::placeholder{
+	font-family: 'Roboto';
+font-style: normal;
+
+font-size: 28px;
+line-height: 38px;
+color: #000000;
+}
+.box2::placeholder{
+	font-family: 'Roboto';
+font-style: normal;
+
+font-size: 28px;
+line-height: 38px;
+color: #000000;
+}
+.box3::placeholder{
+	font-family: 'Roboto';
+font-style: normal;
+
+font-size: 28px;
+line-height: 38px;
+color: #000000;
+}

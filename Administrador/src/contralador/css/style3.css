@@ -1,0 +1,143 @@
+body{
+    min-height: 100vh;
+    max-width:1900px;
+    background-color: F0F2F5; 
+    margin: 0 auto;
+	overflow-x: hidden;
+}
+.principal-image{
+    width:249px;
+	height:200px;
+	position:absolute;
+	left:624px;
+	top:0px;
+	background-image:url(/src/images/inalto_inmobiliaria_logo_a105ca01ac_seeklogo_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.form{
+    position: absolute;
+    width: 687px;
+    height: 400px;
+    left: 395px;
+    top: 219px;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 1px 2px 2px rgba(60, 64, 67, 0.3);
+    border-radius: 15px;
+}
+.divison-linea{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 687px;
+    height: 0px;
+    left: px;
+    top: 75px;
+     color: rgba(0, 0, 0, 1); 
+    border: 1px solid rgba(0, 0, 0, 1);
+    box-shadow: 1px 0px 0px rgba(170, 170, 170, 0.25);
+}
+.principal-text{
+    position: absolute;
+width: 590px;
+height: 72px;
+left: 15px;
+top: -23px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 38px;
+line-height: 47px;
+
+color: #162643;
+
+
+}
+.second-text{
+    position: absolute;
+
+left: 30px;
+top: 60px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 38px;
+
+color: #000000;
+
+}
+.input-user{
+    box-sizing: border-box;
+
+position: absolute;
+width: 670px;
+height: 62px;
+left: 10px;
+top: 189px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-shadow: 0px 1px 2px rgba(60, 64, 67, 0.3);
+border-radius: 15px;
+}
+.input-user{
+    font-family: 'Roboto';
+    font-style: normal;
+   
+    font-size: 23px;
+    line-height: 38px;
+    
+   
+}
+.boton1{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+left: 370px;
+top:330px;
+
+background: #B7D93D;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+}
+.boton2{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    background: #B7D93D;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+left: 534px;
+top:330px;
+}
+.cancelar{
+    position: absolute;
+top: 4px;
+left: 16px;
+text-decoration: none;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+
+color: rgba(60, 64, 67, 0.3);
+}
+.cancelar1{
+    position: absolute;
+   top: 4px;
+   left: 16px;
+    text-decoration: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 38px;
+    
+    color: rgba(60, 64, 67, 0.3);
+}

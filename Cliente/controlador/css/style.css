@@ -1,0 +1,84 @@
+body{
+    font-family: 'Roboto';
+}
+.nav-item{
+    padding-left: 30px;
+    margin-left:100px ;
+    color: #000 ;
+    font-size: 30px;
+}
+.contador{
+    position: fixed;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+   background-color: #111111bd;
+    display: flex;
+    opacity: 0;
+    pointer-events: none;
+    
+   
+}
+.p{
+    opacity: 0;
+    pointer-events: none;
+}
+.pa{
+    opacity:1;
+    pointer-events: unset;
+}
+.r{
+    opacity: 0;
+    pointer-events: none;
+}
+.rb{
+    opacity: 0;
+    pointer-events: none;
+}
+.rc{
+    opacity: 0;
+    pointer-events: none;
+}
+.rf{
+    opacity: 0;
+    pointer-events: none;
+}
+.ri{
+    opacity: 0;
+    pointer-events: none;
+}
+.rg{
+    opacity: 0;
+    pointer-events: none;
+}
+.rd{
+    opacity: 0;
+    pointer-events: none;
+}
+.r1{
+    opacity:1;
+    pointer-events: unset;
+}
+.ra{
+    opacity: 0;
+    pointer-events: none;
+}
+.z{
+    opacity: 0;
+    pointer-events: none;   
+}
+.contador--show{
+    opacity: 1;
+    pointer-events: unset;
+}
+form{
+    background-color: #fff;
+    margin: auto;
+    width: 90%;
+    max-width: 600px;
+}
+.input{
+    left:20px;
+    position: relative;
+}
